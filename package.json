@@ -1,0 +1,20 @@
+{
+  "name": "zoom",
+  "version": "1.0.0",
+  "description": "Working on building Zoom",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DouglasPenn23/Zoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DouglasPenn23/Zoom/issues"
+  },
+  "homepage": "https://github.com/DouglasPenn23/Zoom#readme"
+}
